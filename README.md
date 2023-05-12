@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Dhruv-mak/qr-code-component)
+- Live Site URL: [Live Site](https://dhruv-mak.github.io/qr-code-component/)
 
 ## My process
 
@@ -33,7 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
@@ -48,8 +47,8 @@ Overall, I found this small component to be a great way to learn some basic HTML
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Tailwind css Documentation](https://tailwindcss.com/docs/installation) - I'm just starting out and this helped me to quickly style the html elements.
+- [W3schools](https://www.w3schools.com/) - This is an amazing article which helped me finally understand flexbox. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
